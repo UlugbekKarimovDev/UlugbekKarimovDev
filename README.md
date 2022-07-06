@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UlugbekKarimovDev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript, HTML, CSS. 
+- 🌱 I’m currently learning JavaScript, HTML, CSS, PHP, MySQL, OOP principle. 
  
 - 📫 How to reach me JavaScript. 
 
